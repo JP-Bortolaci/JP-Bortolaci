@@ -22,5 +22,5 @@ Sou desenvolvedor(a) apaixonado(a) por tecnologia, com interesse em desenvolvime
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/jpbortolaci)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jpbortolaci)
 - 📧 joaopedrobortolaci2003@gmail.com
